@@ -6,6 +6,7 @@ In this project, we will explore seven different ways to send notifications usin
 This project will help ypu understand the versatility of the ESP32 and how it can be integrated into various notification system.
 Materials Needed:
 I. ESP32 Development Board.
+
    ![image](https://github.com/We0l0/CSN-150-/assets/143651732/ea322b98-7221-477c-9b96-f78cd0c552c0)
 
 The ESP32 Development Board is a powerful and versatile microcontroller platform that has gained immense popularity in the world of electronics and loT (Internet of Things) development.
@@ -20,6 +21,7 @@ Here are some key features and aspects of the ESP32 development board:
  The ESP32 offers built-in Wi-Fi and Bluetooth capibilities, making it for a wide range of loT applications. It supports both 2.4 GHz Wi-Fi(802.11b/g/n) and Bluetooth 4.2 and 5.0, which enables it to communicate with vaeious devices and networks.
  
  3.	Abundant GPIO Pins:
+    
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/02e17c9f-c887-4af6-9e6f-49dc4e4f5713) 
 The ESP32 boasts a large number of general-purpose input/output (GPIO) pins, which can be used to connect sensors, displays, motors, and other peripherals. This flexibility makes it adaptable to a wide range of projects, from simple sensor monitoring to robotics and home automation.
 
@@ -48,6 +50,7 @@ Espressif has incorporated various security features into the ESP32, including h
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/a88fb6db-cd86-4daa-bd6e-f684d60d40d9)
 
 The ESP32 supports real-time operating systems (RTOS) like FreeRTOS, which can be beneficial for more complex projects that require precise timing and multitasking capabilities.
+
 9.	Community Support and Resources: 
 
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/b3ff6d07-8dc5-434c-b833-014d98953d6f)
