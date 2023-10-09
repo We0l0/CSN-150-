@@ -16,6 +16,7 @@ Here are some key features and aspects of the ESP32 development board:
 1. Dual-Core Processor: One of the standout features of the ESP32 is its dual-core Tensilica Xtensa LX6 microprocessor, which allows for multitasking and handling more complex task. This is a signification improvement over its predecessor, the single-core ESP8266
    
 2. Wireless Connectivity:
+
    ![image](https://github.com/We0l0/CSN-150-/assets/143651732/855132be-f862-4cf2-a0df-d85900d892ab)
 
  The ESP32 offers built-in Wi-Fi and Bluetooth capibilities, making it for a wide range of loT applications. It supports both 2.4 GHz Wi-Fi(802.11b/g/n) and Bluetooth 4.2 and 5.0, which enables it to communicate with vaeious devices and networks.
