@@ -21,22 +21,27 @@ Here are some key features and aspects of the ESP32 development board:
 The ESP32 boasts a large number of general-purpose input/output (GPIO) pins, which can be used to connect sensors, displays, motors, and other peripherals. This flexibility makes it adaptable to a wide range of projects, from simple sensor monitoring to robotics and home automation. 
 4. Rich Peripherals: In addition to GPIO pins, the ESP32 features a variety of other peripherals, including SPI, I2C, UART, PWM, ADC, and more. These peripherals make it easy to interface with sensors, displays, and other external hardware components.
 5.	Low Power Consumption: 
+
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/1ab1818a-524b-422a-a60c-25b0a64e940e)
 
 The ESP32 includes power management features that allow it to operate efficiently on battery power. This makes it suitable for applications requiring low power consumption, such as battery-powered IoT devices.
 6.	Arduino Compatibility: 
+
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/d49d474a-417d-4646-84f4-3ba43349e118)
 
 The ESP32 development board can be programmed using the popular Arduino IDE, making it accessible to a large community of developers who are already familiar with the Arduino ecosystem. This simplifies the development process and allows for easy code sharing.
 7.	Built-in Security Features: 
+
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/33be264e-6118-4ba1-ba11-679a8e96905c)
 
 Espressif has incorporated various security features into the ESP32, including hardware acceleration for cryptographic functions and secure boot capabilities, which are essential for IoT devices that handle sensitive data.
 8.	RTOS Support: 
+
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/a88fb6db-cd86-4daa-bd6e-f684d60d40d9)
 
 The ESP32 supports real-time operating systems (RTOS) like FreeRTOS, which can be beneficial for more complex projects that require precise timing and multitasking capabilities.
 9.	Community Support and Resources: 
+
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/b3ff6d07-8dc5-434c-b833-014d98953d6f)
 
 The ESP32 has a vibrant and active community of developers and enthusiasts. This means that there are plenty of online resources, forums, and libraries available to assist with development and problem-solving.
@@ -45,6 +50,7 @@ The ESP32 development boards are relatively affordable, making them an excellent
 The ESP32 development board has found applications in a wide range of projects, including home automation, smart agriculture, wearable devices, robotics, industrial automation, and more. Its versatility, low power consumption, and robust wireless connectivity make it a popular choice for IoT prototyping and development. Whether you're a beginner or an experienced developer, the ESP32 offers a powerful platform to bring your ideas to life in the world of embedded systems and IoT
 
 II.	USB Cable for ESP32
+
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/f05b4771-e2b0-44db-a80b-7dab04dc634f), ![image](https://github.com/We0l0/CSN-150-/assets/143651732/746c572f-884b-427e-b0b8-d03dfe188c08)
 
 A USB cable for the ESP32 is an essential accessory for programming and powering this popular development board. The ESP32 development board typically comes with a micro USB port, which serves several important functions:
@@ -53,6 +59,7 @@ A USB cable for the ESP32 is an essential accessory for programming and powering
 3. Serial Communication: In addition to programming and power, the USB cable is used for serial communication between your computer and the ESP32. This is useful for debugging and monitoring the ESP32's output through the Serial Monitor in the Arduino IDE or similar tools. You can send and receive data between your computer and the ESP32 over the USB connection.
 
    III. Arduino IDE
+   
    ![image](https://github.com/We0l0/CSN-150-/assets/143651732/160d06c6-3571-4456-9f0f-b7b349d44070)
    The Arduino Integrated Development Environment, commonly known as the Arduino IDE, is a powerful and user-friendly software platform used for programming Arduino microcontroller boards and other compatible hardware platforms. Arduino IDE simplifies the process of writing, compiling, and uploading code to various Arduino-compatible devices, making it accessible to both beginners and experienced developers. Here's an overview of the key features and components of the Arduino IDE:
    
@@ -71,6 +78,7 @@ A USB cable for the ESP32 is an essential accessory for programming and powering
      Arduino IDE is not only popular among hobbyists but also widely used in education and prototyping for its ease of use and versatility. It serves as the foundation for many projects involving Arduino and Arduino-compatible boards, enabling users to bring their creative ideas to life in the world of embedded electronics and microcontroller programming.
  
  IV	Wi-Fi Network   
+ 
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/cbd49320-ffb7-4615-a41a-0f86decf6b14)
 
  A Wi-Fi network, short for "Wireless Fidelity" network, is a popular and convenient way to connect devices to the internet and communicate wirelessly within a local area. Wi-Fi has become an integral part of our daily lives, as it provides the flexibility to connect smartphones, laptops, tablets, smart home devices, and more without the need for physical cables. Here are the key aspects and features of Wi-Fi networks:
