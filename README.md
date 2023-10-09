@@ -69,4 +69,28 @@ A USB cable for the ESP32 is an essential accessory for programming and powering
 11. Extensions and Plugins: Advanced users can extend the functionality of the Arduino IDE by installing plugins and extensions, which can provide additional tools, libraries, and support for new hardware platforms.
     
      Arduino IDE is not only popular among hobbyists but also widely used in education and prototyping for its ease of use and versatility. It serves as the foundation for many projects involving Arduino and Arduino-compatible boards, enabling users to bring their creative ideas to life in the world of embedded electronics and microcontroller programming.
+ 
+ IV	Wi-Fi Network   
+ ![image](https://github.com/We0l0/CSN-150-/assets/143651732/cbd49320-ffb7-4615-a41a-0f86decf6b14)
+
+ A Wi-Fi network, short for "Wireless Fidelity" network, is a popular and convenient way to connect devices to the internet and communicate wirelessly within a local area. Wi-Fi has become an integral part of our daily lives, as it provides the flexibility to connect smartphones, laptops, tablets, smart home devices, and more without the need for physical cables. Here are the key aspects and features of Wi-Fi networks:
+
+ 1. Wireless Connectivity: Wi-Fi networks use radio waves to transmit data between devices and a router or access point. This wireless connection allows for mobility and flexibility, enabling users to move around while staying connected to the network.
+ 2. Router or Access Point: A Wi-Fi network typically revolves around a central device known as a router or access point. This device is connected to the internet and broadcasts a Wi-Fi signal that devices can connect to. Many homes and businesses have a single router, while larger spaces may require multiple access points to ensure coverage.
+ 3. SSID (Service Set Identifier): Each Wi-Fi network is identified by a unique SSID, which is essentially the network's name. When connecting a device to a Wi-Fi network, you select the network from a list of available SSIDs.
+ 4. Security: Security is a critical aspect of Wi-Fi networks. To prevent unauthorized access, Wi-Fi networks use various security protocols, such as WPA2 (Wi-Fi Protected Access 2) and WPA3, which require a password or passphrase to join the network. It's essential to set a strong, unique password to protect your Wi-Fi network from potential intruders.
+ 5. Frequency Bands: Wi-Fi networks operate in two primary frequency bands: 2.4 GHz and 5 GHz. The 2.4 GHz band provides better range but can be more crowded due to its widespread use. The 5 GHz band offers faster speeds but has a shorter range.
+ 6. Speed and Throughput: Wi-Fi network speeds are typically measured in megabits per second (Mbps) or gigabits per second (Gbps). The actual throughput you experience depends on factors like signal strength, interference, and network congestion.
+ 7. Range: The range of a Wi-Fi network depends on various factors, including the router's transmit power, frequency band, and physical obstacles. Range extenders or mesh networks can be used to expand coverage in larger spaces.
+ 8. Guest Networks: Many routers support the creation of guest networks, which allow visitors to connect to the internet without accessing the primary network. This provides an extra layer of security for your main network.
+ 9. Smart Devices and IoT: The proliferation of smart devices and the Internet of Things (IoT) has increased the demand for Wi-Fi networks. These devices, including smart thermostats, cameras, and appliances, rely on Wi-Fi for connectivity and communication.
+ 10. Wi-Fi Standards: Over the years, Wi-Fi technology has evolved, with different standards providing improved speed and performance. Common Wi-Fi standards include 802.11b, 802.11g, 802.11n, 802.11ac, and 802.11ax (Wi-Fi 6).
+ 11. Network Management: Routers often come with web-based interfaces that allow users to configure and manage their Wi-Fi networks. These interfaces provide options for security settings, device management, and network diagnostics.
+       Wi-Fi networks have transformed the way we connect to the internet and communicate with devices in our homes, workplaces, and public spaces. Their convenience, flexibility, and widespread availability make Wi-Fi a fundamental technology in our connected world. However, it's crucial to secure your Wi-Fi network to protect your data and privacy, as well as to ensure a reliable and fast connection for your devices.
+
+V.	Computer or Smartphone
+![image](https://github.com/We0l0/CSN-150-/assets/143651732/f0f7fc1f-e539-4df4-b98c-af3830e50bf1)
+Computers and smartphones are both essential tools in the digital age, each serving distinct purposes. Computers are versatile workhorses that excel at productivity tasks and offer customization options, while smartphones provide mobility, communication, and a wide range of apps and services in a compact form factor. Users often find themselves using a combination of both devices to meet their computing and communication needs.
+
+ 
 
