@@ -43,6 +43,7 @@ The ESP32 has a vibrant and active community of developers and enthusiasts. This
 10.	Cost-Effective:
 The ESP32 development boards are relatively affordable, making them an excellent choice for both hobbyists and professionals on a budget.
 The ESP32 development board has found applications in a wide range of projects, including home automation, smart agriculture, wearable devices, robotics, industrial automation, and more. Its versatility, low power consumption, and robust wireless connectivity make it a popular choice for IoT prototyping and development. Whether you're a beginner or an experienced developer, the ESP32 offers a powerful platform to bring your ideas to life in the world of embedded systems and IoT
+
 II.	USB Cable for ESP32
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/f05b4771-e2b0-44db-a80b-7dab04dc634f), ![image](https://github.com/We0l0/CSN-150-/assets/143651732/746c572f-884b-427e-b0b8-d03dfe188c08)
 
@@ -50,6 +51,7 @@ A USB cable for the ESP32 is an essential accessory for programming and powering
 1. Programming: The USB cable is used to upload your program (firmware or code) onto the ESP32. You connect one end of the USB cable to your computer's USB port and the other end to the micro USB port on the ESP32 board. This allows you to use the Arduino IDE or another development environment to write, compile, and upload code to the ESP32.
 2. Powering: USB cables can also be used to power the ESP32 board during development and testing. When connected to your computer or a USB power source (such as a USB charger or a power bank), the ESP32 can draw power through the USB cable to operate without the need for a separate power supply.
 3. Serial Communication: In addition to programming and power, the USB cable is used for serial communication between your computer and the ESP32. This is useful for debugging and monitoring the ESP32's output through the Serial Monitor in the Arduino IDE or similar tools. You can send and receive data between your computer and the ESP32 over the USB connection.
+
    III. Arduino IDE
    ![image](https://github.com/We0l0/CSN-150-/assets/143651732/160d06c6-3571-4456-9f0f-b7b349d44070)
    The Arduino Integrated Development Environment, commonly known as the Arduino IDE, is a powerful and user-friendly software platform used for programming Arduino microcontroller boards and other compatible hardware platforms. Arduino IDE simplifies the process of writing, compiling, and uploading code to various Arduino-compatible devices, making it accessible to both beginners and experienced developers. Here's an overview of the key features and components of the Arduino IDE:
