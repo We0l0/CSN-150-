@@ -55,6 +55,7 @@ A USB cable for the ESP32 is an essential accessory for programming and powering
    III. Arduino IDE
    ![image](https://github.com/We0l0/CSN-150-/assets/143651732/160d06c6-3571-4456-9f0f-b7b349d44070)
    The Arduino Integrated Development Environment, commonly known as the Arduino IDE, is a powerful and user-friendly software platform used for programming Arduino microcontroller boards and other compatible hardware platforms. Arduino IDE simplifies the process of writing, compiling, and uploading code to various Arduino-compatible devices, making it accessible to both beginners and experienced developers. Here's an overview of the key features and components of the Arduino IDE:
+   
 1. Cross-Platform Compatibility: Arduino IDE is available for Windows, macOS, and Linux, making it versatile and accessible to users on different operating systems.
 2. User-Friendly Interface: The IDE features a straightforward and intuitive interface with a text editor for writing code, a toolbar for common actions, and a message console for debugging and feedback.
 3. Code Editor: The code editor in Arduino IDE is equipped with features such as syntax highlighting, code auto-completion, and code indentation. These features help streamline the coding process and minimize errors.
