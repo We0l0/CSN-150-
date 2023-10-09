@@ -88,7 +88,9 @@ A USB cable for the ESP32 is an essential accessory for programming and powering
  11. Network Management: Routers often come with web-based interfaces that allow users to configure and manage their Wi-Fi networks. These interfaces provide options for security settings, device management, and network diagnostics.
        Wi-Fi networks have transformed the way we connect to the internet and communicate with devices in our homes, workplaces, and public spaces. Their convenience, flexibility, and widespread availability make Wi-Fi a fundamental technology in our connected world. However, it's crucial to secure your Wi-Fi network to protect your data and privacy, as well as to ensure a reliable and fast connection for your devices.
 
-V.	Computer or Smartphone ![image](https://github.com/We0l0/CSN-150-/assets/143651732/f0f7fc1f-e539-4df4-b98c-af3830e50bf1)
+V.	Computer or Smartphone
+
+![image](https://github.com/We0l0/CSN-150-/assets/143651732/f0f7fc1f-e539-4df4-b98c-af3830e50bf1)
 Computers and smartphones are both essential tools in the digital age, each serving distinct purposes. Computers are versatile workhorses that excel at productivity tasks and offer customization options, while smartphones provide mobility, communication, and a wide range of apps and services in a compact form factor. Users often find themselves using a combination of both devices to meet their computing and communication needs.
 
  
