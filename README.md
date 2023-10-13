@@ -8,10 +8,29 @@ To get an email from ESP32 we need ESP32 item, a phone, the software arduino IDE
 
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/cbd49320-ffb7-4615-a41a-0f86decf6b14)
 
- Connect the ESP32 to the computer and open the arduino software to verify that all the sittings are correctly connected.
+ Connect the ESP32 to the computer and open the arduino software to verify that all the sittings are correctly connected. The wifi and the port "COM3"
 
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/a206daa9-a708-4a5d-ac8c-bc2e7e0c0dce)
- Now you start coding
+ 
+ 
+ Now you start coding but before that we will sketch. Our phone will get the notification.
+ Now let go to the coding section
+
+ ![image](https://github.com/We0l0/CSN-150-/assets/143651732/e4b187cf-93ac-45ee-9fb0-66582867c876)
+
+ ![image](https://github.com/We0l0/CSN-150-/assets/143651732/f48c40bf-84db-4d30-a572-9247de70c7f0)
+
+ ![image](https://github.com/We0l0/CSN-150-/assets/143651732/19219837-32e5-44e0-904d-8cb1e3698193)
+
+ ![image](https://github.com/We0l0/CSN-150-/assets/143651732/fa7521ca-9553-4373-92c3-3272ad20dce4)
+
+
+ ![image](https://github.com/We0l0/CSN-150-/assets/143651732/cd40d93b-524b-4437-995d-2ccbe0ac1a33)
+
+
+
+
+
 
 
 
