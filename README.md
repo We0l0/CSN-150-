@@ -5,6 +5,8 @@ The ESP32 is a versatile and powerful microcontroller that offers a wide range o
 
 One of the most common methods to send notifications from an ESP32 is through the use of internet connectivity. The ESP32 has built-in Wi-Fi and Bluetooth capabilities, making it well-suited for connecting to various online services and platforms. You can leverage these capabilities to send notifications through services like email, SMS, or even through cloud-based messaging platforms like MQTT or Firebase Cloud Messaging.
 To get an email from ESP32 we need ESP32 item, a phone, the software arduino IDE, and a computer.
+we need email account, I recommand not to use your personal email account to do this experience because if something goes wrong that will affect your account.
+After creating your gmail account, you need allow less secure apps ON.
 
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/cbd49320-ffb7-4615-a41a-0f86decf6b14)
 
@@ -16,7 +18,10 @@ To get an email from ESP32 we need ESP32 item, a phone, the software arduino IDE
  Now you start coding but before that we will sketch. Our phone will get the notification.
  Now let go to the coding section
 
- ![image](https://github.com/We0l0/CSN-150-/assets/143651732/e4b187cf-93ac-45ee-9fb0-66582867c876)
+![image](https://github.com/We0l0/CSN-150-/assets/143651732/4e8ee537-d75d-412c-a343-3e3835db1487)
+
+![image](https://github.com/We0l0/CSN-150-/assets/143651732/f3e4a34e-6469-4961-8685-baf2488de33a)
+
 
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/f48c40bf-84db-4d30-a572-9247de70c7f0)
 
