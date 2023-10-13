@@ -12,16 +12,12 @@ One of the most common methods to send notifications from an ESP32 is through th
 
 
 
-The ESP32 includes power management features that allow it to operate efficiently on battery power. This makes it suitable for applications requiring low power consumption, such as battery-powered IoT devices.
-
-6.	Arduino Compatibility: 
 
 
 
 
 
-   
-   ![image](https://github.com/We0l0/CSN-150-/assets/143651732/160d06c6-3571-4456-9f0f-b7b349d44070)
+
   
 
 
