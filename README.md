@@ -11,6 +11,7 @@ To get an email from ESP32 we need ESP32 item, a phone, the software arduino IDE
  Connect the ESP32 to the computer and open the arduino software to verify that all the sittings are correctly connected.
 
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/a206daa9-a708-4a5d-ac8c-bc2e7e0c0dce)
+ Now you start coding
 
 
 
