@@ -18,10 +18,6 @@ The ESP32 includes power management features that allow it to operate efficientl
 
 
 
-![image](https://github.com/We0l0/CSN-150-/assets/143651732/b3ff6d07-8dc5-434c-b833-014d98953d6f)
-
-
-![image](https://github.com/We0l0/CSN-150-/assets/143651732/f05b4771-e2b0-44db-a80b-7dab04dc634f), ![image](https://github.com/We0l0/CSN-150-/assets/143651732/746c572f-884b-427e-b0b8-d03dfe188c08)
 
 
    
@@ -36,7 +32,7 @@ The ESP32 includes power management features that allow it to operate efficientl
 
  
 
-![image](https://github.com/We0l0/CSN-150-/assets/143651732/f0f7fc1f-e539-4df4-b98c-af3830e50bf1)
+
 
 
  
