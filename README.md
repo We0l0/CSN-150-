@@ -29,14 +29,17 @@ After creating your gmail account, you need allow less secure apps ON.
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/5b1b7956-42de-44fd-b684-ee4bce323d66)
 
 
+ By doing that you can modify the setting so that you will get nodification when for example the weather is cold.
+
+
+The ESP32's flexibility and connectivity options make it a valuable tool for sending notifications in a wide array of applications. The ease of integration, coupled with a strong online community and a wealth of resources, makes the ESP32 an ideal choice for both beginners and experienced developers.
+
+As you embark on your project, keep in mind that the specific notification method you choose should align with your project's requirements and the preferences of your end users. With careful planning and implementation, the ESP32 can be a reliable and efficient means of keeping users informed and updated about important events or data, enhancing the functionality and user experience of your project.
 
 
 
 
- ![image](https://github.com/We0l0/CSN-150-/assets/143651732/fa7521ca-9553-4373-92c3-3272ad20dce4)
 
-
- ![image](https://github.com/We0l0/CSN-150-/assets/143651732/cd40d93b-524b-4437-995d-2ccbe0ac1a33)
 
 
 
