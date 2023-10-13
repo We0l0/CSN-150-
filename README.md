@@ -22,10 +22,16 @@ After creating your gmail account, you need allow less secure apps ON.
 
 ![image](https://github.com/We0l0/CSN-150-/assets/143651732/f3e4a34e-6469-4961-8685-baf2488de33a)
 
+![image](https://github.com/We0l0/CSN-150-/assets/143651732/11c40969-47c1-4670-86b3-e72b8c086a8e)
 
- ![image](https://github.com/We0l0/CSN-150-/assets/143651732/f48c40bf-84db-4d30-a572-9247de70c7f0)
+![image](https://github.com/We0l0/CSN-150-/assets/143651732/4ad5bdbd-d448-4127-a7cf-153c44f0057d)
 
- ![image](https://github.com/We0l0/CSN-150-/assets/143651732/19219837-32e5-44e0-904d-8cb1e3698193)
+ ![image](https://github.com/We0l0/CSN-150-/assets/143651732/5b1b7956-42de-44fd-b684-ee4bce323d66)
+
+
+
+
+
 
  ![image](https://github.com/We0l0/CSN-150-/assets/143651732/fa7521ca-9553-4373-92c3-3272ad20dce4)
 
